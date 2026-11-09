@@ -1,0 +1,17 @@
+{
+  "name": "steadfast-eleventy",
+  "version": "1.0.0",
+  "description": "One-page Eleventy starter for small service businesses.",
+  "type": "module",
+  "license": "MIT",
+  "author": "KokybiskaSvetaine.lt (https://kokybiskasvetaine.lt/)",
+  "homepage": "https://kokybiskasvetaine.lt/steadfast/",
+  "repository": "github:ello-lithuania/steadfast-eleventy",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
