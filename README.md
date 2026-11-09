@@ -4,7 +4,7 @@ A one-page site for tradespeople, repair shops, cleaners, gardeners and anyone e
 
 ![Steadfast preview](screenshot.png)
 
-**[Live demo](https://kokybiskasvetaine.lt/steadfast/)**
+**[Live demo](https://ello-lithuania.github.io/steadfast-eleventy/)**
 
 ## Features
 

@@ -5,7 +5,7 @@
   "type": "module",
   "license": "MIT",
   "author": "KokybiskaSvetaine.lt (https://kokybiskasvetaine.lt/)",
-  "homepage": "https://kokybiskasvetaine.lt/steadfast/",
+  "homepage": "https://ello-lithuania.github.io/steadfast-eleventy/",
   "repository": "github:ello-lithuania/steadfast-eleventy",
   "scripts": {
     "start": "eleventy --serve",
